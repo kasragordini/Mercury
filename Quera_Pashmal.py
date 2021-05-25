@@ -1,0 +1,5 @@
+n = int(input("Number of sheep: "))
+k = float(input("amount of wool: "))
+p = int(input("price: "))
+total = int(n*k*p)
+print("total price is: ",total)

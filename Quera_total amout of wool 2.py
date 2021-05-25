@@ -1,0 +1,5 @@
+n = int(input())
+k = float(input())
+p = int(input())
+t = int(n*k*p)
+print(t)

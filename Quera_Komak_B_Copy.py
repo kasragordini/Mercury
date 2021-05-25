@@ -1,0 +1,5 @@
+n, s = input().split()
+n = int(n)
+s = str(s)
+result = (n * "copy of ")
+print(result,s)
